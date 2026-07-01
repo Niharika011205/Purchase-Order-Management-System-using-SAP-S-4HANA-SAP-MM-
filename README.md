@@ -251,15 +251,6 @@ This project helped in understanding:
 
 ---
 
-# 👩‍💻 Authors
-
-**Sk. Sadiya Parvin**  
-B.Tech – Computer Science and Engineering  
-SRM University AP
-
-**R. Niharika**  
-B.Tech – Computer Science and Engineering  
-SRM University AP
 
 ---
 
